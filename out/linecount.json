@@ -1,0 +1,3782 @@
+{
+    "extension": "linecount",
+    "version": "0.1.7",
+    "workspace": "f:\\k618\\flutter_demo",
+    "linecount": [
+        {
+            "version": "0.1.7",
+            "counttime": "2019-12-08 21:14:01",
+            "filesum": 568,
+            "codesum": 28004,
+            "commentsum": 634,
+            "blanksum": 5389,
+            "filelist": [
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": ".flutter-plugins"
+                },
+                {
+                    "blank": 6,
+                    "code": 66,
+                    "comment": 0,
+                    "filename": ".gitignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 113,
+                    "comment": 0,
+                    "filename": ".idea\\codeStyles\\Project.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 244,
+                    "comment": 0,
+                    "filename": ".idea\\libraries\\Dart_Packages.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": ".idea\\libraries\\Dart_SDK.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": ".idea\\libraries\\Flutter_for_Android.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": ".idea\\libraries\\Flutter_Plugins.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": ".idea\\libraries\\KotlinJavaRuntime.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": ".idea\\misc.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": ".idea\\modules.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": ".idea\\runConfigurations\\main_dart.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 255,
+                    "comment": 0,
+                    "filename": ".idea\\workspace.xml"
+                },
+                {
+                    "blank": 2,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": ".metadata"
+                },
+                {
+                    "blank": 0,
+                    "code": 31,
+                    "comment": 29,
+                    "filename": ".packages"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "android\\.gradle\\4.10.2\\fileChanges\\last-build.bin"
+                },
+                {
+                    "filename": "android\\.gradle\\4.10.2\\fileContent\\fileContent.lock",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "android\\.gradle\\4.10.2\\fileHashes\\fileHashes.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "android\\.gradle\\4.10.2\\fileHashes\\fileHashes.lock",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "android\\.gradle\\4.10.2\\fileHashes\\resourceHashesCache.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "android\\.gradle\\4.10.2\\gc.properties"
+                },
+                {
+                    "filename": "android\\.gradle\\4.10.2\\javaCompile\\classAnalysis.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "android\\.gradle\\4.10.2\\javaCompile\\jarAnalysis.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "android\\.gradle\\4.10.2\\javaCompile\\javaCompile.lock",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "android\\.gradle\\4.10.2\\javaCompile\\taskHistory.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "android\\.gradle\\4.10.2\\taskHistory\\taskHistory.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "android\\.gradle\\4.10.2\\taskHistory\\taskHistory.lock",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "android\\.gradle\\buildOutputCleanup\\buildOutputCleanup.lock",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "android\\.gradle\\buildOutputCleanup\\cache.properties"
+                },
+                {
+                    "filename": "android\\.gradle\\buildOutputCleanup\\outputFiles.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "android\\.gradle\\vcs-1\\gc.properties"
+                },
+                {
+                    "blank": 0,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "android\\.project"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "android\\.settings\\org.eclipse.buildship.core.prefs"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "android\\app\\.classpath"
+                },
+                {
+                    "blank": 0,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "android\\app\\.project"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "android\\app\\.settings\\org.eclipse.buildship.core.prefs"
+                },
+                {
+                    "blank": 11,
+                    "code": 53,
+                    "comment": 3,
+                    "filename": "android\\app\\build.gradle"
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 3,
+                    "filename": "android\\app\\src\\debug\\AndroidManifest.xml"
+                },
+                {
+                    "blank": 1,
+                    "code": 23,
+                    "comment": 9,
+                    "filename": "android\\app\\src\\main\\AndroidManifest.xml"
+                },
+                {
+                    "blank": 3,
+                    "code": 19,
+                    "comment": 3,
+                    "filename": "android\\app\\src\\main\\java\\io\\flutter\\plugins\\GeneratedPluginRegistrant.java"
+                },
+                {
+                    "blank": 3,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "android\\app\\src\\main\\kotlin\\com\\example\\flutter_demo\\MainActivity.kt"
+                },
+                {
+                    "blank": 1,
+                    "code": 4,
+                    "comment": 7,
+                    "filename": "android\\app\\src\\main\\res\\drawable\\launch_background.xml"
+                },
+                {
+                    "filename": "android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 2,
+                    "filename": "android\\app\\src\\main\\res\\values\\styles.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 3,
+                    "filename": "android\\app\\src\\profile\\AndroidManifest.xml"
+                },
+                {
+                    "blank": 4,
+                    "code": 29,
+                    "comment": 4,
+                    "filename": "android\\build.gradle"
+                },
+                {
+                    "blank": 0,
+                    "code": 29,
+                    "comment": 0,
+                    "filename": "android\\flutter_demo_android.iml"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "android\\gradle.properties"
+                },
+                {
+                    "filename": "android\\gradle\\wrapper\\gradle-wrapper.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 1,
+                    "filename": "android\\gradle\\wrapper\\gradle-wrapper.properties"
+                },
+                {
+                    "blank": 10,
+                    "code": 58,
+                    "comment": 0,
+                    "filename": "android\\gradlew"
+                },
+                {
+                    "blank": 8,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "android\\gradlew.bat"
+                },
+                {
+                    "blank": 0,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "android\\local.properties"
+                },
+                {
+                    "blank": 3,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "android\\settings.gradle"
+                },
+                {
+                    "filename": "build\\app.dill",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app.dill.incremental.dill",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 2,
+                    "code": 12,
+                    "comment": 6,
+                    "filename": "build\\app\\generated\\not_namespaced_r_class_sources\\debug\\processDebugResources\\r\\com\\example\\flutter_demo\\R.java"
+                },
+                {
+                    "blank": 2,
+                    "code": 4,
+                    "comment": 6,
+                    "filename": "build\\app\\generated\\not_namespaced_r_class_sources\\debug\\processDebugResources\\r\\io\\flutter\\plugins\\sharedpreferences\\R.java"
+                },
+                {
+                    "blank": 2,
+                    "code": 12,
+                    "comment": 6,
+                    "filename": "build\\app\\generated\\not_namespaced_r_class_sources\\release\\processReleaseResources\\r\\com\\example\\flutter_demo\\R.java"
+                },
+                {
+                    "blank": 1,
+                    "code": 9,
+                    "comment": 3,
+                    "filename": "build\\app\\generated\\source\\buildConfig\\debug\\com\\example\\flutter_demo\\BuildConfig.java"
+                },
+                {
+                    "blank": 1,
+                    "code": 9,
+                    "comment": 3,
+                    "filename": "build\\app\\generated\\source\\buildConfig\\release\\com\\example\\flutter_demo\\BuildConfig.java"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\annotation_processor_list\\debug\\javaPreCompileDebug\\annotationProcessors.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\annotation_processor_list\\release\\javaPreCompileRelease\\annotationProcessors.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\apk_list\\debug\\mainApkListPersistenceDebug\\apk-list.gson"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\apk_list\\release\\mainApkListPersistenceRelease\\apk-list.gson"
+                },
+                {
+                    "blank": 0,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\blame\\res\\debug\\multi-v2\\debug.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\blame\\res\\debug\\multi-v2\\values.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\blame\\res\\debug\\single\\debug.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\blame\\res\\release\\multi-v2\\release.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\blame\\res\\release\\multi-v2\\values.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\blame\\res\\release\\single\\release.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\compatible_screen_manifest\\debug\\createDebugCompatibleScreenManifests\\out\\output.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\compatible_screen_manifest\\release\\createReleaseCompatibleScreenManifests\\out\\output.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\flutter\\debug\\android-arm64\\flutter_assets\\AssetManifest.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\flutter\\debug\\android-arm64\\flutter_assets\\FontManifest.json"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\flutter\\debug\\android-arm64\\flutter_assets\\fonts\\MaterialIcons-Regular.ttf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\flutter\\debug\\android-arm64\\flutter_assets\\isolate_snapshot_data",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\flutter\\debug\\android-arm64\\flutter_assets\\kernel_blob.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 1024,
+                    "code": 4644,
+                    "comment": 67,
+                    "filename": "build\\app\\intermediates\\flutter\\debug\\android-arm64\\flutter_assets\\LICENSE"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\flutter\\debug\\android-arm64\\flutter_assets\\packages\\cupertino_icons\\assets\\CupertinoIcons.ttf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\flutter\\debug\\android-arm64\\flutter_assets\\vm_snapshot_data",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\flutter\\debug\\android-arm64\\snapshot_blob.bin.d"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\flutter\\debug\\android-arm64\\snapshot_blob.bin.d.fingerprint"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\flutter\\debug\\libs.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\flutter\\release\\android-arm64\\app.dill",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\flutter\\release\\android-arm64\\app.so",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\flutter\\release\\android-arm64\\flutter_assets\\AssetManifest.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\flutter\\release\\android-arm64\\flutter_assets\\FontManifest.json"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\flutter\\release\\android-arm64\\flutter_assets\\fonts\\MaterialIcons-Regular.ttf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 1024,
+                    "code": 4644,
+                    "comment": 67,
+                    "filename": "build\\app\\intermediates\\flutter\\release\\android-arm64\\flutter_assets\\LICENSE"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\flutter\\release\\android-arm64\\flutter_assets\\packages\\cupertino_icons\\assets\\CupertinoIcons.ttf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\flutter\\release\\android-arm64\\frontend_server.d"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\flutter\\release\\android-arm64\\gen_snapshot.d"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\flutter\\release\\android-arm64\\kernel_compile.d"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\flutter\\release\\android-arm64\\kernel_compile.d.fingerprint"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\flutter\\release\\android-arm64\\snapshot.d.fingerprint"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\flutter\\release\\android-arm\\app.dill",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\flutter\\release\\android-arm\\app.so",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\flutter\\release\\android-arm\\flutter_assets\\AssetManifest.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\flutter\\release\\android-arm\\flutter_assets\\FontManifest.json"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\flutter\\release\\android-arm\\flutter_assets\\fonts\\MaterialIcons-Regular.ttf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 1024,
+                    "code": 4644,
+                    "comment": 67,
+                    "filename": "build\\app\\intermediates\\flutter\\release\\android-arm\\flutter_assets\\LICENSE"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\flutter\\release\\android-arm\\flutter_assets\\packages\\cupertino_icons\\assets\\CupertinoIcons.ttf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\flutter\\release\\android-arm\\frontend_server.d"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\flutter\\release\\android-arm\\gen_snapshot.d"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\flutter\\release\\android-arm\\kernel_compile.d"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\flutter\\release\\android-arm\\kernel_compile.d.fingerprint"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\flutter\\release\\android-arm\\snapshot.d.fingerprint"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\flutter\\release\\libs.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\debug-mergeJavaRes\\merge-state",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\debug-mergeJavaRes\\zip-cache\\+31fjGHloLfIYBpYbwZUbsSWgg0=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\debug-mergeJavaRes\\zip-cache\\730QMLFN+lF9ZSk_T0mCDfHm0o8=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\debug-mergeJavaRes\\zip-cache\\E4gsdMim8YPy2eacuzBekIIekGk=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\debug-mergeJavaRes\\zip-cache\\PvFPBEJW_Pn+NZFysvMuRHGACKM=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\debug-mergeJavaRes\\zip-cache\\RegtIbQafPjUuZ08aRGWMmoNHg0=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\debug-mergeJavaRes\\zip-cache\\zCyTpe_Dp5Q47GDKFFrXf4QKzts=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\debug-mergeJavaRes\\zip-cache\\ZeLJrcUCmAb3cTmstqcvFvIw7ZY=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\debug-mergeJniLibs\\merge-state",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\debug-mergeJniLibs\\zip-cache\\+31fjGHloLfIYBpYbwZUbsSWgg0=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\debug-mergeJniLibs\\zip-cache\\730QMLFN+lF9ZSk_T0mCDfHm0o8=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\debug-mergeJniLibs\\zip-cache\\E4gsdMim8YPy2eacuzBekIIekGk=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\debug-mergeJniLibs\\zip-cache\\PvFPBEJW_Pn+NZFysvMuRHGACKM=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\debug-mergeJniLibs\\zip-cache\\RegtIbQafPjUuZ08aRGWMmoNHg0=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\debug-mergeJniLibs\\zip-cache\\zCyTpe_Dp5Q47GDKFFrXf4QKzts=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\debug-mergeJniLibs\\zip-cache\\ZeLJrcUCmAb3cTmstqcvFvIw7ZY=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\incremental\\mergeDebugAssets\\merger.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\incremental\\mergeDebugJniLibFolders\\merger.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\incremental\\mergeDebugResources\\compile-file-map.properties"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 2,
+                    "filename": "build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml"
+                },
+                {
+                    "blank": 1,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\incremental\\mergeDebugResources\\merger.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\incremental\\mergeDebugShaders\\merger.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\incremental\\mergeReleaseAssets\\merger.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\incremental\\mergeReleaseJniLibFolders\\merger.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\incremental\\mergeReleaseResources\\compile-file-map.properties"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 2,
+                    "filename": "build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml"
+                },
+                {
+                    "blank": 1,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\incremental\\mergeReleaseResources\\merger.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\incremental\\mergeReleaseShaders\\merger.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\incremental\\packageDebug\\tmp\\debug\\dex-renamer-state.txt"
+                },
+                {
+                    "blank": 0,
+                    "code": 51,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\incremental\\packageDebug\\tmp\\debug\\file-input-save-data.txt"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\packageDebug\\tmp\\debug\\zip-cache\\Cm0k7ljkZuShtflqHKH2u9l_MSc=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\packageDebug\\tmp\\debug\\zip-cache\\sPpxyu1OplGb_ynm6LfBXrkma4Q=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\incremental\\packageRelease\\tmp\\release\\dex-renamer-state.txt"
+                },
+                {
+                    "blank": 0,
+                    "code": 43,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\incremental\\packageRelease\\tmp\\release\\file-input-save-data.txt"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\packageRelease\\tmp\\release\\zip-cache\\2IxrKYJFXk2pp8ua1192Pf36gno=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\packageRelease\\tmp\\release\\zip-cache\\jb7fYZI+aRDorZe1IR6WXcjnULA=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\release-mergeJavaRes\\merge-state",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\release-mergeJavaRes\\zip-cache\\07NZeamOI8q0MxnF5IWjttsB44w=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\release-mergeJavaRes\\zip-cache\\730QMLFN+lF9ZSk_T0mCDfHm0o8=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\release-mergeJavaRes\\zip-cache\\9IUm3HIyVM8fstZm8M4KZC127wo=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\release-mergeJavaRes\\zip-cache\\E4gsdMim8YPy2eacuzBekIIekGk=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\release-mergeJavaRes\\zip-cache\\RegtIbQafPjUuZ08aRGWMmoNHg0=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\release-mergeJavaRes\\zip-cache\\ZeLJrcUCmAb3cTmstqcvFvIw7ZY=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\release-mergeJniLibs\\merge-state",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\release-mergeJniLibs\\zip-cache\\07NZeamOI8q0MxnF5IWjttsB44w=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\release-mergeJniLibs\\zip-cache\\730QMLFN+lF9ZSk_T0mCDfHm0o8=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\release-mergeJniLibs\\zip-cache\\9IUm3HIyVM8fstZm8M4KZC127wo=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\release-mergeJniLibs\\zip-cache\\E4gsdMim8YPy2eacuzBekIIekGk=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\release-mergeJniLibs\\zip-cache\\RegtIbQafPjUuZ08aRGWMmoNHg0=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\incremental\\release-mergeJniLibs\\zip-cache\\ZeLJrcUCmAb3cTmstqcvFvIw7ZY=",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\instant_run_merged_manifests\\debug\\processDebugManifest\\instant-run\\output.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\instant_run_merged_manifests\\release\\processReleaseManifest\\instant-run\\output.json"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\javac\\debug\\compileDebugJavaWithJavac\\classes\\com\\example\\flutter_demo\\BuildConfig.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\javac\\debug\\compileDebugJavaWithJavac\\classes\\com\\example\\flutter_demo\\R$drawable.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\javac\\debug\\compileDebugJavaWithJavac\\classes\\com\\example\\flutter_demo\\R$mipmap.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\javac\\debug\\compileDebugJavaWithJavac\\classes\\com\\example\\flutter_demo\\R$style.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\javac\\debug\\compileDebugJavaWithJavac\\classes\\com\\example\\flutter_demo\\R.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\javac\\debug\\compileDebugJavaWithJavac\\classes\\io\\flutter\\plugins\\GeneratedPluginRegistrant.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\javac\\debug\\compileDebugJavaWithJavac\\classes\\io\\flutter\\plugins\\sharedpreferences\\R.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\javac\\release\\compileReleaseJavaWithJavac\\classes\\com\\example\\flutter_demo\\BuildConfig.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\javac\\release\\compileReleaseJavaWithJavac\\classes\\com\\example\\flutter_demo\\R$drawable.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\javac\\release\\compileReleaseJavaWithJavac\\classes\\com\\example\\flutter_demo\\R$mipmap.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\javac\\release\\compileReleaseJavaWithJavac\\classes\\com\\example\\flutter_demo\\R$style.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\javac\\release\\compileReleaseJavaWithJavac\\classes\\com\\example\\flutter_demo\\R.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\javac\\release\\compileReleaseJavaWithJavac\\classes\\io\\flutter\\plugins\\GeneratedPluginRegistrant.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out\\flutter_assets\\AssetManifest.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out\\flutter_assets\\FontManifest.json"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out\\flutter_assets\\fonts\\MaterialIcons-Regular.ttf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out\\flutter_assets\\isolate_snapshot_data",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out\\flutter_assets\\kernel_blob.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 1024,
+                    "code": 4644,
+                    "comment": 67,
+                    "filename": "build\\app\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out\\flutter_assets\\LICENSE"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out\\flutter_assets\\packages\\cupertino_icons\\assets\\CupertinoIcons.ttf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out\\flutter_assets\\vm_snapshot_data",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\merged_assets\\release\\mergeReleaseAssets\\out\\flutter_assets\\AssetManifest.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\merged_assets\\release\\mergeReleaseAssets\\out\\flutter_assets\\FontManifest.json"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\merged_assets\\release\\mergeReleaseAssets\\out\\flutter_assets\\fonts\\MaterialIcons-Regular.ttf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 1024,
+                    "code": 4644,
+                    "comment": 67,
+                    "filename": "build\\app\\intermediates\\merged_assets\\release\\mergeReleaseAssets\\out\\flutter_assets\\LICENSE"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\merged_assets\\release\\mergeReleaseAssets\\out\\flutter_assets\\packages\\cupertino_icons\\assets\\CupertinoIcons.ttf",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 5,
+                    "code": 31,
+                    "comment": 17,
+                    "filename": "build\\app\\intermediates\\merged_manifests\\debug\\processDebugManifest\\merged\\AndroidManifest.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\merged_manifests\\debug\\processDebugManifest\\merged\\output.json"
+                },
+                {
+                    "blank": 5,
+                    "code": 29,
+                    "comment": 13,
+                    "filename": "build\\app\\intermediates\\merged_manifests\\release\\processReleaseManifest\\merged\\AndroidManifest.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\merged_manifests\\release\\processReleaseManifest\\merged\\output.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\processed_res\\debug\\processDebugResources\\out\\output.json"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\processed_res\\debug\\processDebugResources\\out\\resources-debug.ap_",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\processed_res\\release\\processReleaseResources\\out\\output.json"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\processed_res\\release\\processReleaseResources\\out\\resources-release.ap_",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\res\\merged\\debug\\drawable_launch_background.xml.flat",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\res\\merged\\release\\drawable_launch_background.xml.flat",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\res\\merged\\release\\values_values.arsc.flat",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\res\\symbol-table-with-package\\debug\\package-aware-r.txt"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\split_list\\debug\\splitsDiscoveryTaskDebug\\split-list.gson"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\split_list\\release\\splitsDiscoveryTaskRelease\\split-list.gson"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\symbols\\debug\\R.txt"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\0.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\1.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\15.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\17.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\18.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\19.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\2.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\20.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\21.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\22.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\23.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\3.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\30.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\31.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\32.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\33.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\34.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\35.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\36\\com\\example\\flutter_demo\\BuildConfig.dex",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\36\\com\\example\\flutter_demo\\R$drawable.dex",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\36\\com\\example\\flutter_demo\\R$mipmap.dex",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\36\\com\\example\\flutter_demo\\R$style.dex",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\36\\com\\example\\flutter_demo\\R.dex",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\36\\io\\flutter\\plugins\\GeneratedPluginRegistrant.dex",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\36\\io\\flutter\\plugins\\sharedpreferences\\R.dex",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\37\\com\\example\\flutter_demo\\MainActivity.dex",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\39.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\4.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\40.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\43.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\5.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\debug\\__content__.json"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\release\\0.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\release\\1.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\release\\15.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\release\\17.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\release\\18.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\release\\19.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\release\\2.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\release\\20.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\release\\21.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\release\\22.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\release\\23.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\release\\3.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\release\\30.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\release\\31.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\release\\32.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\release\\33.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\release\\34.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\release\\35.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\release\\36\\com\\example\\flutter_demo\\BuildConfig.dex",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\release\\36\\com\\example\\flutter_demo\\R$drawable.dex",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\release\\36\\com\\example\\flutter_demo\\R$mipmap.dex",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\release\\36\\com\\example\\flutter_demo\\R$style.dex",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\release\\36\\com\\example\\flutter_demo\\R.dex",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\release\\36\\io\\flutter\\plugins\\GeneratedPluginRegistrant.dex",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\release\\37\\com\\example\\flutter_demo\\MainActivity.dex",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\release\\4.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\release\\5.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\transforms\\dexBuilder\\release\\__content__.json"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\transforms\\dexMerger\\debug\\__content__.json"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\dexMerger\\release\\0\\classes.dex",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\transforms\\dexMerger\\release\\__content__.json"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\externalLibsDexMerger\\debug\\0\\classes.dex",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\transforms\\externalLibsDexMerger\\debug\\__content__.json"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\externalLibsDexMerger\\release\\0\\classes.dex",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\transforms\\externalLibsDexMerger\\release\\__content__.json"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\mergeJavaRes\\debug\\0.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\transforms\\mergeJavaRes\\debug\\__content__.json"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\mergeJavaRes\\release\\0.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\transforms\\mergeJavaRes\\release\\__content__.json"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\mergeJniLibs\\debug\\0\\lib\\arm64-v8a\\libflutter.so",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\mergeJniLibs\\debug\\0\\lib\\x86\\libflutter.so",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\mergeJniLibs\\debug\\0\\lib\\x86_64\\libflutter.so",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\transforms\\mergeJniLibs\\debug\\__content__.json"
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\mergeJniLibs\\release\\0\\lib\\arm64-v8a\\libapp.so",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\mergeJniLibs\\release\\0\\lib\\arm64-v8a\\libflutter.so",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\mergeJniLibs\\release\\0\\lib\\armeabi-v7a\\libapp.so",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\intermediates\\transforms\\mergeJniLibs\\release\\0\\lib\\armeabi-v7a\\libflutter.so",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\intermediates\\transforms\\mergeJniLibs\\release\\__content__.json"
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\build-history.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\inputs\\source-to-output.tab",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\inputs\\source-to-output.tab.keystream",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\inputs\\source-to-output.tab.keystream.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\inputs\\source-to-output.tab.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\inputs\\source-to-output.tab.values.at"
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\inputs\\source-to-output.tab_i",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\inputs\\source-to-output.tab_i.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\class-fq-name-to-source.tab",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\class-fq-name-to-source.tab.keystream",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\class-fq-name-to-source.tab.keystream.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\class-fq-name-to-source.tab.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\class-fq-name-to-source.tab.values.at"
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\class-fq-name-to-source.tab_i",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\class-fq-name-to-source.tab_i.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\internal-name-to-source.tab",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\internal-name-to-source.tab.keystream",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\internal-name-to-source.tab.keystream.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\internal-name-to-source.tab.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\internal-name-to-source.tab.values.at"
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\internal-name-to-source.tab_i",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\internal-name-to-source.tab_i.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\java-sources-proto-map.tab",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\java-sources-proto-map.tab.keystream",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\java-sources-proto-map.tab.keystream.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\java-sources-proto-map.tab.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\java-sources-proto-map.tab.values.at",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\java-sources-proto-map.tab_i",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\java-sources-proto-map.tab_i.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\proto.tab",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\proto.tab.keystream",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\proto.tab.keystream.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\proto.tab.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\proto.tab.values.at",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\proto.tab_i",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\proto.tab_i.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\source-to-classes.tab",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\source-to-classes.tab.keystream",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\source-to-classes.tab.keystream.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\source-to-classes.tab.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\source-to-classes.tab.values.at",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\source-to-classes.tab_i",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\source-to-classes.tab_i.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\subtypes.tab",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\subtypes.tab.keystream",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\subtypes.tab.keystream.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\subtypes.tab.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\subtypes.tab.values.at"
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\subtypes.tab_i",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\subtypes.tab_i.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\supertypes.tab",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\supertypes.tab.keystream",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\supertypes.tab.keystream.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\supertypes.tab.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\supertypes.tab.values.at",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\supertypes.tab_i",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\jvm\\kotlin\\supertypes.tab_i.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\lookups\\counters.tab"
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\lookups\\file-to-id.tab",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\lookups\\file-to-id.tab.keystream",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\lookups\\file-to-id.tab.keystream.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\lookups\\file-to-id.tab.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\lookups\\file-to-id.tab.values.at",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\lookups\\file-to-id.tab_i",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\lookups\\file-to-id.tab_i.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\lookups\\id-to-file.tab",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\lookups\\id-to-file.tab.keystream",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\lookups\\id-to-file.tab.keystream.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\lookups\\id-to-file.tab.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\lookups\\id-to-file.tab.values.at"
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\lookups\\lookups.tab",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\lookups\\lookups.tab.keystream",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\lookups\\lookups.tab.keystream.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\lookups\\lookups.tab.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\lookups\\lookups.tab.values.at",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\lookups\\lookups.tab_i",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\caches-jvm\\lookups\\lookups.tab_i.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\data-container-format-version.txt"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\format-version.txt"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\gradle-format-version.txt"
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileDebugKotlin\\last-build.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\build-history.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\inputs\\source-to-output.tab",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\inputs\\source-to-output.tab.keystream",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\inputs\\source-to-output.tab.keystream.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\inputs\\source-to-output.tab.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\inputs\\source-to-output.tab.values.at"
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\inputs\\source-to-output.tab_i",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\inputs\\source-to-output.tab_i.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\class-fq-name-to-source.tab",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\class-fq-name-to-source.tab.keystream",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\class-fq-name-to-source.tab.keystream.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\class-fq-name-to-source.tab.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\class-fq-name-to-source.tab.values.at"
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\class-fq-name-to-source.tab_i",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\class-fq-name-to-source.tab_i.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\internal-name-to-source.tab",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\internal-name-to-source.tab.keystream",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\internal-name-to-source.tab.keystream.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\internal-name-to-source.tab.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\internal-name-to-source.tab.values.at"
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\internal-name-to-source.tab_i",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\internal-name-to-source.tab_i.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\java-sources-proto-map.tab",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\java-sources-proto-map.tab.keystream",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\java-sources-proto-map.tab.keystream.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\java-sources-proto-map.tab.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\java-sources-proto-map.tab.values.at",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\java-sources-proto-map.tab_i",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\java-sources-proto-map.tab_i.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\proto.tab",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\proto.tab.keystream",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\proto.tab.keystream.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\proto.tab.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\proto.tab.values.at",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\proto.tab_i",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\proto.tab_i.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\source-to-classes.tab",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\source-to-classes.tab.keystream",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\source-to-classes.tab.keystream.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\source-to-classes.tab.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\source-to-classes.tab.values.at",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\source-to-classes.tab_i",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\source-to-classes.tab_i.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\subtypes.tab",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\subtypes.tab.keystream",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\subtypes.tab.keystream.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\subtypes.tab.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\subtypes.tab.values.at"
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\subtypes.tab_i",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\subtypes.tab_i.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\supertypes.tab",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\supertypes.tab.keystream",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\supertypes.tab.keystream.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\supertypes.tab.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\supertypes.tab.values.at",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\supertypes.tab_i",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\jvm\\kotlin\\supertypes.tab_i.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\lookups\\counters.tab"
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\lookups\\file-to-id.tab",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\lookups\\file-to-id.tab.keystream",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\lookups\\file-to-id.tab.keystream.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\lookups\\file-to-id.tab.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\lookups\\file-to-id.tab.values.at",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\lookups\\file-to-id.tab_i",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\lookups\\file-to-id.tab_i.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\lookups\\id-to-file.tab",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\lookups\\id-to-file.tab.keystream",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\lookups\\id-to-file.tab.keystream.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\lookups\\id-to-file.tab.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\lookups\\id-to-file.tab.values.at"
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\lookups\\lookups.tab",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\lookups\\lookups.tab.keystream",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\lookups\\lookups.tab.keystream.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\lookups\\lookups.tab.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\lookups\\lookups.tab.values.at",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\lookups\\lookups.tab_i",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\caches-jvm\\lookups\\lookups.tab_i.len",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\data-container-format-version.txt"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\format-version.txt"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\gradle-format-version.txt"
+                },
+                {
+                    "filename": "build\\app\\kotlin\\compileReleaseKotlin\\last-build.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\outputs\\apk\\app.apk",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\outputs\\apk\\app.apk.sha1"
+                },
+                {
+                    "filename": "build\\app\\outputs\\apk\\debug\\app-debug.apk",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\outputs\\apk\\debug\\output.json"
+                },
+                {
+                    "filename": "build\\app\\outputs\\apk\\release\\app-release.apk",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\outputs\\apk\\release\\output.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 81,
+                    "comment": 0,
+                    "filename": "build\\app\\outputs\\logs\\manifest-merger-debug-report.txt"
+                },
+                {
+                    "blank": 0,
+                    "code": 75,
+                    "comment": 0,
+                    "filename": "build\\app\\outputs\\logs\\manifest-merger-release-report.txt"
+                },
+                {
+                    "blank": 3,
+                    "code": 185,
+                    "comment": 13,
+                    "filename": "build\\app\\reports\\lint-results-release-fatal.html"
+                },
+                {
+                    "blank": 1,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "build\\app\\reports\\lint-results-release-fatal.xml"
+                },
+                {
+                    "filename": "build\\app\\tmp\\kotlin-classes\\debug\\com\\example\\flutter_demo\\MainActivity.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\tmp\\kotlin-classes\\debug\\META-INF\\app_debug.kotlin_module",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\tmp\\kotlin-classes\\release\\com\\example\\flutter_demo\\MainActivity.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\app\\tmp\\kotlin-classes\\release\\META-INF\\app_release.kotlin_module",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\tmp\\packLibsflutterBuildDebug\\MANIFEST.MF"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\app\\tmp\\packLibsflutterBuildRelease\\MANIFEST.MF"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\frontend_server.d"
+                },
+                {
+                    "blank": 2,
+                    "code": 4,
+                    "comment": 6,
+                    "filename": "build\\shared_preferences\\generated\\not_namespaced_r_class_sources\\debug\\generateDebugRFile\\out\\io\\flutter\\plugins\\sharedpreferences\\R.java"
+                },
+                {
+                    "blank": 1,
+                    "code": 9,
+                    "comment": 3,
+                    "filename": "build\\shared_preferences\\generated\\source\\buildConfig\\debug\\io\\flutter\\plugins\\sharedpreferences\\BuildConfig.java"
+                },
+                {
+                    "blank": 2,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "build\\shared_preferences\\intermediates\\aapt_friendly_merged_manifests\\debug\\processDebugManifest\\aapt\\AndroidManifest.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\shared_preferences\\intermediates\\aapt_friendly_merged_manifests\\debug\\processDebugManifest\\aapt\\output.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\shared_preferences\\intermediates\\annotation_processor_list\\debug\\javaPreCompileDebug\\annotationProcessors.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "build\\shared_preferences\\intermediates\\annotations_typedef_file\\debug\\extractDebugAnnotations\\typedefs.txt"
+                },
+                {
+                    "filename": "build\\shared_preferences\\intermediates\\incremental\\debug-mergeJavaRes\\merge-state",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\shared_preferences\\intermediates\\incremental\\debug-mergeJniLibs\\merge-state",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "build\\shared_preferences\\intermediates\\incremental\\mergeDebugJniLibFolders\\merger.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "build\\shared_preferences\\intermediates\\incremental\\mergeDebugShaders\\merger.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "build\\shared_preferences\\intermediates\\incremental\\packageDebugAssets\\merger.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\shared_preferences\\intermediates\\incremental\\packageDebugResources\\compile-file-map.properties"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": "build\\shared_preferences\\intermediates\\incremental\\packageDebugResources\\merger.xml"
+                },
+                {
+                    "filename": "build\\shared_preferences\\intermediates\\intermediate-jars\\debug\\classes.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\shared_preferences\\intermediates\\intermediate-jars\\debug\\res.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\shared_preferences\\intermediates\\javac\\debug\\compileDebugJavaWithJavac\\classes\\io\\flutter\\plugins\\sharedpreferences\\BuildConfig.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\shared_preferences\\intermediates\\javac\\debug\\compileDebugJavaWithJavac\\classes\\io\\flutter\\plugins\\sharedpreferences\\MethodCallHandlerImpl$1.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\shared_preferences\\intermediates\\javac\\debug\\compileDebugJavaWithJavac\\classes\\io\\flutter\\plugins\\sharedpreferences\\MethodCallHandlerImpl.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\shared_preferences\\intermediates\\javac\\debug\\compileDebugJavaWithJavac\\classes\\io\\flutter\\plugins\\sharedpreferences\\R.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "build\\shared_preferences\\intermediates\\javac\\debug\\compileDebugJavaWithJavac\\classes\\io\\flutter\\plugins\\sharedpreferences\\SharedPreferencesPlugin.class",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 2,
+                    "code": 5,
+                    "comment": 0,
+                    "filename": "build\\shared_preferences\\intermediates\\merged_manifests\\debug\\processDebugManifest\\merged\\AndroidManifest.xml"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\shared_preferences\\intermediates\\merged_manifests\\debug\\processDebugManifest\\merged\\output.json"
+                },
+                {
+                    "filename": "build\\shared_preferences\\intermediates\\packaged-classes\\debug\\classes.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\shared_preferences\\intermediates\\res\\symbol-table-with-package\\debug\\package-aware-r.txt"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "build\\shared_preferences\\intermediates\\symbols\\debug\\R.txt"
+                },
+                {
+                    "filename": "build\\shared_preferences\\intermediates\\transforms\\mergeJavaRes\\debug\\0.jar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\shared_preferences\\intermediates\\transforms\\mergeJavaRes\\debug\\__content__.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "build\\shared_preferences\\intermediates\\transforms\\mergeJniLibs\\debug\\__content__.json"
+                },
+                {
+                    "filename": "build\\shared_preferences\\outputs\\aar\\shared_preferences-debug.aar",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "build\\shared_preferences\\outputs\\logs\\manifest-merger-debug-report.txt"
+                },
+                {
+                    "blank": 0,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "flutter_demo.iml"
+                },
+                {
+                    "blank": 0,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "ios\\Flutter\\AppFrameworkInfo.plist"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "ios\\Flutter\\Debug.xcconfig"
+                },
+                {
+                    "blank": 0,
+                    "code": 8,
+                    "comment": 1,
+                    "filename": "ios\\Flutter\\Generated.xcconfig"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "ios\\Flutter\\Release.xcconfig"
+                },
+                {
+                    "blank": 14,
+                    "code": 480,
+                    "comment": 27,
+                    "filename": "ios\\Runner.xcodeproj\\project.pbxproj"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "ios\\Runner.xcodeproj\\project.xcworkspace\\contents.xcworkspacedata"
+                },
+                {
+                    "blank": 0,
+                    "code": 91,
+                    "comment": 0,
+                    "filename": "ios\\Runner.xcodeproj\\xcshareddata\\xcschemes\\Runner.xcscheme"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "ios\\Runner.xcworkspace\\contents.xcworkspacedata"
+                },
+                {
+                    "blank": 1,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "ios\\Runner\\AppDelegate.swift"
+                },
+                {
+                    "blank": 0,
+                    "code": 122,
+                    "comment": 0,
+                    "filename": "ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Contents.json"
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-1024x1024@1x.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-20x20@1x.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-20x20@2x.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-20x20@3x.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-29x29@1x.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-29x29@2x.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-29x29@3x.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-40x40@1x.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-40x40@2x.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-40x40@3x.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-60x60@2x.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-60x60@3x.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-76x76@1x.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-76x76@2x.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\AppIcon.appiconset\\Icon-App-83.5x83.5@2x.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "ios\\Runner\\Assets.xcassets\\LaunchImage.imageset\\Contents.json"
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\LaunchImage.imageset\\LaunchImage.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\LaunchImage.imageset\\LaunchImage@2x.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "ios\\Runner\\Assets.xcassets\\LaunchImage.imageset\\LaunchImage@3x.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 2,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "ios\\Runner\\Assets.xcassets\\LaunchImage.imageset\\README.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 37,
+                    "comment": 0,
+                    "filename": "ios\\Runner\\Base.lproj\\LaunchScreen.storyboard"
+                },
+                {
+                    "blank": 0,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "ios\\Runner\\Base.lproj\\Main.storyboard"
+                },
+                {
+                    "blank": 4,
+                    "code": 7,
+                    "comment": 3,
+                    "filename": "ios\\Runner\\GeneratedPluginRegistrant.h"
+                },
+                {
+                    "blank": 4,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "ios\\Runner\\GeneratedPluginRegistrant.m"
+                },
+                {
+                    "blank": 0,
+                    "code": 45,
+                    "comment": 0,
+                    "filename": "ios\\Runner\\Info.plist"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "ios\\Runner\\Runner-Bridging-Header.h"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "lib\\config\\Config.dart"
+                },
+                {
+                    "blank": 3,
+                    "code": 24,
+                    "comment": 2,
+                    "filename": "lib\\main.dart"
+                },
+                {
+                    "blank": 7,
+                    "code": 46,
+                    "comment": 0,
+                    "filename": "lib\\model\\CateModel.dart"
+                },
+                {
+                    "blank": 7,
+                    "code": 43,
+                    "comment": 0,
+                    "filename": "lib\\model\\FocusModel.dart"
+                },
+                {
+                    "blank": 7,
+                    "code": 56,
+                    "comment": 1,
+                    "filename": "lib\\model\\ProductModel.dart"
+                },
+                {
+                    "blank": 37,
+                    "code": 300,
+                    "comment": 58,
+                    "filename": "lib\\pages\\ProdctList.dart"
+                },
+                {
+                    "blank": 4,
+                    "code": 144,
+                    "comment": 0,
+                    "filename": "lib\\pages\\ProductContent.dart"
+                },
+                {
+                    "blank": 3,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "lib\\pages\\ProductContent\\ProductContentFirst.dart"
+                },
+                {
+                    "blank": 3,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "lib\\pages\\ProductContent\\ProductContentSecond.dart"
+                },
+                {
+                    "blank": 3,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "lib\\pages\\ProductContent\\ProductContentThird.dart"
+                },
+                {
+                    "blank": 10,
+                    "code": 223,
+                    "comment": 6,
+                    "filename": "lib\\pages\\Search.dart"
+                },
+                {
+                    "blank": 2,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "lib\\pages\\tabs\\Cart.dart"
+                },
+                {
+                    "blank": 12,
+                    "code": 151,
+                    "comment": 9,
+                    "filename": "lib\\pages\\tabs\\Category.dart"
+                },
+                {
+                    "blank": 15,
+                    "code": 229,
+                    "comment": 15,
+                    "filename": "lib\\pages\\tabs\\Home.dart"
+                },
+                {
+                    "blank": 5,
+                    "code": 84,
+                    "comment": 9,
+                    "filename": "lib\\pages\\tabs\\Tabs.dart"
+                },
+                {
+                    "blank": 2,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "lib\\pages\\tabs\\User.dart"
+                },
+                {
+                    "blank": 2,
+                    "code": 25,
+                    "comment": 3,
+                    "filename": "lib\\routers\\router.dart"
+                },
+                {
+                    "blank": 1,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "lib\\services\\ScreenAdapter.dart"
+                },
+                {
+                    "blank": 5,
+                    "code": 37,
+                    "comment": 1,
+                    "filename": "lib\\services\\SearchServices.dart"
+                },
+                {
+                    "blank": 4,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "lib\\services\\Storage.dart"
+                },
+                {
+                    "blank": 1,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "lib\\widget\\LoadingWidget.dart"
+                },
+                {
+                    "blank": 0,
+                    "code": 203,
+                    "comment": 1,
+                    "filename": "pubspec.lock"
+                },
+                {
+                    "blank": 13,
+                    "code": 63,
+                    "comment": 6,
+                    "filename": "pubspec.yaml"
+                },
+                {
+                    "blank": 6,
+                    "code": 10,
+                    "comment": 3,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 6,
+                    "code": 14,
+                    "comment": 10,
+                    "filename": "test\\widget_test.dart"
+                }
+            ]
+        }
+    ]
+}

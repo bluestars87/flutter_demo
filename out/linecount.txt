@@ -1,0 +1,580 @@
+===============================================================================
+EXTENSION NAME : linecount
+EXTENSION VERSION : 0.1.7
+-------------------------------------------------------------------------------
+count time : 2019-12-08 21:14:01
+count workspace : f:\k618\flutter_demo
+total files : 568
+total code lines : 28004
+total comment lines : 634
+total blank lines : 5389
+
+.flutter-plugins, code is 1, comment is 0, blank is 0.
+.gitignore, code is 66, comment is 0, blank is 6.
+.idea\codeStyles\Project.xml, code is 113, comment is 0, blank is 0.
+.idea\libraries\Dart_Packages.xml, code is 244, comment is 0, blank is 0.
+.idea\libraries\Dart_SDK.xml, code is 28, comment is 0, blank is 0.
+.idea\libraries\Flutter_for_Android.xml, code is 9, comment is 0, blank is 0.
+.idea\libraries\Flutter_Plugins.xml, code is 9, comment is 0, blank is 0.
+.idea\libraries\KotlinJavaRuntime.xml, code is 15, comment is 0, blank is 0.
+.idea\misc.xml, code is 32, comment is 0, blank is 0.
+.idea\modules.xml, code is 9, comment is 0, blank is 0.
+.idea\runConfigurations\main_dart.xml, code is 6, comment is 0, blank is 0.
+.idea\workspace.xml, code is 255, comment is 0, blank is 0.
+.metadata, code is 8, comment is 0, blank is 2.
+.packages, code is 31, comment is 29, blank is 0.
+android\.gradle\4.10.2\fileChanges\last-build.bin, code is 1, comment is 0, blank is 0.
+android\.gradle\4.10.2\fileContent\fileContent.lock, it is a binary file.
+android\.gradle\4.10.2\fileHashes\fileHashes.bin, it is a binary file.
+android\.gradle\4.10.2\fileHashes\fileHashes.lock, it is a binary file.
+android\.gradle\4.10.2\fileHashes\resourceHashesCache.bin, it is a binary file.
+android\.gradle\4.10.2\gc.properties, code is 0, comment is 0, blank is 0.
+android\.gradle\4.10.2\javaCompile\classAnalysis.bin, it is a binary file.
+android\.gradle\4.10.2\javaCompile\jarAnalysis.bin, it is a binary file.
+android\.gradle\4.10.2\javaCompile\javaCompile.lock, it is a binary file.
+android\.gradle\4.10.2\javaCompile\taskHistory.bin, it is a binary file.
+android\.gradle\4.10.2\taskHistory\taskHistory.bin, it is a binary file.
+android\.gradle\4.10.2\taskHistory\taskHistory.lock, it is a binary file.
+android\.gradle\buildOutputCleanup\buildOutputCleanup.lock, it is a binary file.
+android\.gradle\buildOutputCleanup\cache.properties, code is 2, comment is 0, blank is 0.
+android\.gradle\buildOutputCleanup\outputFiles.bin, it is a binary file.
+android\.gradle\vcs-1\gc.properties, code is 0, comment is 0, blank is 0.
+android\.project, code is 17, comment is 0, blank is 0.
+android\.settings\org.eclipse.buildship.core.prefs, code is 2, comment is 0, blank is 0.
+android\app\.classpath, code is 6, comment is 0, blank is 0.
+android\app\.project, code is 23, comment is 0, blank is 0.
+android\app\.settings\org.eclipse.buildship.core.prefs, code is 2, comment is 0, blank is 0.
+android\app\build.gradle, code is 53, comment is 3, blank is 11.
+android\app\src\debug\AndroidManifest.xml, code is 4, comment is 3, blank is 0.
+android\app\src\main\AndroidManifest.xml, code is 23, comment is 9, blank is 1.
+android\app\src\main\java\io\flutter\plugins\GeneratedPluginRegistrant.java, code is 19, comment is 3, blank is 3.
+android\app\src\main\kotlin\com\example\flutter_demo\MainActivity.kt, code is 10, comment is 0, blank is 3.
+android\app\src\main\res\drawable\launch_background.xml, code is 4, comment is 7, blank is 1.
+android\app\src\main\res\mipmap-hdpi\ic_launcher.png, it is a binary file.
+android\app\src\main\res\mipmap-mdpi\ic_launcher.png, it is a binary file.
+android\app\src\main\res\mipmap-xhdpi\ic_launcher.png, it is a binary file.
+android\app\src\main\res\mipmap-xxhdpi\ic_launcher.png, it is a binary file.
+android\app\src\main\res\mipmap-xxxhdpi\ic_launcher.png, it is a binary file.
+android\app\src\main\res\values\styles.xml, code is 6, comment is 2, blank is 0.
+android\app\src\profile\AndroidManifest.xml, code is 4, comment is 3, blank is 0.
+android\build.gradle, code is 29, comment is 4, blank is 4.
+android\flutter_demo_android.iml, code is 29, comment is 0, blank is 0.
+android\gradle.properties, code is 1, comment is 0, blank is 1.
+android\gradle\wrapper\gradle-wrapper.jar, it is a binary file.
+android\gradle\wrapper\gradle-wrapper.properties, code is 6, comment is 1, blank is 0.
+android\gradlew, code is 58, comment is 0, blank is 10.
+android\gradlew.bat, code is 27, comment is 0, blank is 8.
+android\local.properties, code is 5, comment is 0, blank is 0.
+android\settings.gradle, code is 12, comment is 0, blank is 3.
+build\app.dill, it is a binary file.
+build\app.dill.incremental.dill, it is a binary file.
+build\app\generated\not_namespaced_r_class_sources\debug\processDebugResources\r\com\example\flutter_demo\R.java, code is 12, comment is 6, blank is 2.
+build\app\generated\not_namespaced_r_class_sources\debug\processDebugResources\r\io\flutter\plugins\sharedpreferences\R.java, code is 4, comment is 6, blank is 2.
+build\app\generated\not_namespaced_r_class_sources\release\processReleaseResources\r\com\example\flutter_demo\R.java, code is 12, comment is 6, blank is 2.
+build\app\generated\source\buildConfig\debug\com\example\flutter_demo\BuildConfig.java, code is 9, comment is 3, blank is 1.
+build\app\generated\source\buildConfig\release\com\example\flutter_demo\BuildConfig.java, code is 9, comment is 3, blank is 1.
+build\app\intermediates\annotation_processor_list\debug\javaPreCompileDebug\annotationProcessors.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\annotation_processor_list\release\javaPreCompileRelease\annotationProcessors.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\apk_list\debug\mainApkListPersistenceDebug\apk-list.gson, code is 1, comment is 0, blank is 0.
+build\app\intermediates\apk_list\release\mainApkListPersistenceRelease\apk-list.gson, code is 1, comment is 0, blank is 0.
+build\app\intermediates\blame\res\debug\multi-v2\debug.json, code is 28, comment is 0, blank is 0.
+build\app\intermediates\blame\res\debug\multi-v2\values.json, code is 28, comment is 0, blank is 0.
+build\app\intermediates\blame\res\debug\single\debug.json, code is 26, comment is 0, blank is 0.
+build\app\intermediates\blame\res\release\multi-v2\release.json, code is 28, comment is 0, blank is 0.
+build\app\intermediates\blame\res\release\multi-v2\values.json, code is 28, comment is 0, blank is 0.
+build\app\intermediates\blame\res\release\single\release.json, code is 26, comment is 0, blank is 0.
+build\app\intermediates\compatible_screen_manifest\debug\createDebugCompatibleScreenManifests\out\output.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\compatible_screen_manifest\release\createReleaseCompatibleScreenManifests\out\output.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\flutter\debug\android-arm64\flutter_assets\AssetManifest.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\flutter\debug\android-arm64\flutter_assets\FontManifest.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\flutter\debug\android-arm64\flutter_assets\fonts\MaterialIcons-Regular.ttf, it is a binary file.
+build\app\intermediates\flutter\debug\android-arm64\flutter_assets\isolate_snapshot_data, it is a binary file.
+build\app\intermediates\flutter\debug\android-arm64\flutter_assets\kernel_blob.bin, it is a binary file.
+build\app\intermediates\flutter\debug\android-arm64\flutter_assets\LICENSE, code is 4644, comment is 67, blank is 1024.
+build\app\intermediates\flutter\debug\android-arm64\flutter_assets\packages\cupertino_icons\assets\CupertinoIcons.ttf, it is a binary file.
+build\app\intermediates\flutter\debug\android-arm64\flutter_assets\vm_snapshot_data, it is a binary file.
+build\app\intermediates\flutter\debug\android-arm64\snapshot_blob.bin.d, code is 1, comment is 0, blank is 0.
+build\app\intermediates\flutter\debug\android-arm64\snapshot_blob.bin.d.fingerprint, code is 1, comment is 0, blank is 0.
+build\app\intermediates\flutter\debug\libs.jar, it is a binary file.
+build\app\intermediates\flutter\release\android-arm64\app.dill, it is a binary file.
+build\app\intermediates\flutter\release\android-arm64\app.so, it is a binary file.
+build\app\intermediates\flutter\release\android-arm64\flutter_assets\AssetManifest.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\flutter\release\android-arm64\flutter_assets\FontManifest.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\flutter\release\android-arm64\flutter_assets\fonts\MaterialIcons-Regular.ttf, it is a binary file.
+build\app\intermediates\flutter\release\android-arm64\flutter_assets\LICENSE, code is 4644, comment is 67, blank is 1024.
+build\app\intermediates\flutter\release\android-arm64\flutter_assets\packages\cupertino_icons\assets\CupertinoIcons.ttf, it is a binary file.
+build\app\intermediates\flutter\release\android-arm64\frontend_server.d, code is 1, comment is 0, blank is 0.
+build\app\intermediates\flutter\release\android-arm64\gen_snapshot.d, code is 1, comment is 0, blank is 0.
+build\app\intermediates\flutter\release\android-arm64\kernel_compile.d, code is 1, comment is 0, blank is 0.
+build\app\intermediates\flutter\release\android-arm64\kernel_compile.d.fingerprint, code is 1, comment is 0, blank is 0.
+build\app\intermediates\flutter\release\android-arm64\snapshot.d.fingerprint, code is 1, comment is 0, blank is 0.
+build\app\intermediates\flutter\release\android-arm\app.dill, it is a binary file.
+build\app\intermediates\flutter\release\android-arm\app.so, it is a binary file.
+build\app\intermediates\flutter\release\android-arm\flutter_assets\AssetManifest.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\flutter\release\android-arm\flutter_assets\FontManifest.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\flutter\release\android-arm\flutter_assets\fonts\MaterialIcons-Regular.ttf, it is a binary file.
+build\app\intermediates\flutter\release\android-arm\flutter_assets\LICENSE, code is 4644, comment is 67, blank is 1024.
+build\app\intermediates\flutter\release\android-arm\flutter_assets\packages\cupertino_icons\assets\CupertinoIcons.ttf, it is a binary file.
+build\app\intermediates\flutter\release\android-arm\frontend_server.d, code is 1, comment is 0, blank is 0.
+build\app\intermediates\flutter\release\android-arm\gen_snapshot.d, code is 1, comment is 0, blank is 0.
+build\app\intermediates\flutter\release\android-arm\kernel_compile.d, code is 1, comment is 0, blank is 0.
+build\app\intermediates\flutter\release\android-arm\kernel_compile.d.fingerprint, code is 1, comment is 0, blank is 0.
+build\app\intermediates\flutter\release\android-arm\snapshot.d.fingerprint, code is 1, comment is 0, blank is 0.
+build\app\intermediates\flutter\release\libs.jar, it is a binary file.
+build\app\intermediates\incremental\debug-mergeJavaRes\merge-state, it is a binary file.
+build\app\intermediates\incremental\debug-mergeJavaRes\zip-cache\+31fjGHloLfIYBpYbwZUbsSWgg0=, it is a binary file.
+build\app\intermediates\incremental\debug-mergeJavaRes\zip-cache\730QMLFN+lF9ZSk_T0mCDfHm0o8=, it is a binary file.
+build\app\intermediates\incremental\debug-mergeJavaRes\zip-cache\E4gsdMim8YPy2eacuzBekIIekGk=, it is a binary file.
+build\app\intermediates\incremental\debug-mergeJavaRes\zip-cache\PvFPBEJW_Pn+NZFysvMuRHGACKM=, it is a binary file.
+build\app\intermediates\incremental\debug-mergeJavaRes\zip-cache\RegtIbQafPjUuZ08aRGWMmoNHg0=, it is a binary file.
+build\app\intermediates\incremental\debug-mergeJavaRes\zip-cache\zCyTpe_Dp5Q47GDKFFrXf4QKzts=, it is a binary file.
+build\app\intermediates\incremental\debug-mergeJavaRes\zip-cache\ZeLJrcUCmAb3cTmstqcvFvIw7ZY=, it is a binary file.
+build\app\intermediates\incremental\debug-mergeJniLibs\merge-state, it is a binary file.
+build\app\intermediates\incremental\debug-mergeJniLibs\zip-cache\+31fjGHloLfIYBpYbwZUbsSWgg0=, it is a binary file.
+build\app\intermediates\incremental\debug-mergeJniLibs\zip-cache\730QMLFN+lF9ZSk_T0mCDfHm0o8=, it is a binary file.
+build\app\intermediates\incremental\debug-mergeJniLibs\zip-cache\E4gsdMim8YPy2eacuzBekIIekGk=, it is a binary file.
+build\app\intermediates\incremental\debug-mergeJniLibs\zip-cache\PvFPBEJW_Pn+NZFysvMuRHGACKM=, it is a binary file.
+build\app\intermediates\incremental\debug-mergeJniLibs\zip-cache\RegtIbQafPjUuZ08aRGWMmoNHg0=, it is a binary file.
+build\app\intermediates\incremental\debug-mergeJniLibs\zip-cache\zCyTpe_Dp5Q47GDKFFrXf4QKzts=, it is a binary file.
+build\app\intermediates\incremental\debug-mergeJniLibs\zip-cache\ZeLJrcUCmAb3cTmstqcvFvIw7ZY=, it is a binary file.
+build\app\intermediates\incremental\mergeDebugAssets\merger.xml, code is 2, comment is 0, blank is 0.
+build\app\intermediates\incremental\mergeDebugJniLibFolders\merger.xml, code is 2, comment is 0, blank is 0.
+build\app\intermediates\incremental\mergeDebugResources\compile-file-map.properties, code is 7, comment is 0, blank is 0.
+build\app\intermediates\incremental\mergeDebugResources\merged.dir\values\values.xml, code is 6, comment is 2, blank is 0.
+build\app\intermediates\incremental\mergeDebugResources\merger.xml, code is 4, comment is 0, blank is 1.
+build\app\intermediates\incremental\mergeDebugShaders\merger.xml, code is 2, comment is 0, blank is 0.
+build\app\intermediates\incremental\mergeReleaseAssets\merger.xml, code is 2, comment is 0, blank is 0.
+build\app\intermediates\incremental\mergeReleaseJniLibFolders\merger.xml, code is 2, comment is 0, blank is 0.
+build\app\intermediates\incremental\mergeReleaseResources\compile-file-map.properties, code is 7, comment is 0, blank is 0.
+build\app\intermediates\incremental\mergeReleaseResources\merged.dir\values\values.xml, code is 6, comment is 2, blank is 0.
+build\app\intermediates\incremental\mergeReleaseResources\merger.xml, code is 4, comment is 0, blank is 1.
+build\app\intermediates\incremental\mergeReleaseShaders\merger.xml, code is 2, comment is 0, blank is 0.
+build\app\intermediates\incremental\packageDebug\tmp\debug\dex-renamer-state.txt, code is 4, comment is 0, blank is 0.
+build\app\intermediates\incremental\packageDebug\tmp\debug\file-input-save-data.txt, code is 51, comment is 0, blank is 0.
+build\app\intermediates\incremental\packageDebug\tmp\debug\zip-cache\Cm0k7ljkZuShtflqHKH2u9l_MSc=, it is a binary file.
+build\app\intermediates\incremental\packageDebug\tmp\debug\zip-cache\sPpxyu1OplGb_ynm6LfBXrkma4Q=, it is a binary file.
+build\app\intermediates\incremental\packageRelease\tmp\release\dex-renamer-state.txt, code is 4, comment is 0, blank is 0.
+build\app\intermediates\incremental\packageRelease\tmp\release\file-input-save-data.txt, code is 43, comment is 0, blank is 0.
+build\app\intermediates\incremental\packageRelease\tmp\release\zip-cache\2IxrKYJFXk2pp8ua1192Pf36gno=, it is a binary file.
+build\app\intermediates\incremental\packageRelease\tmp\release\zip-cache\jb7fYZI+aRDorZe1IR6WXcjnULA=, it is a binary file.
+build\app\intermediates\incremental\release-mergeJavaRes\merge-state, it is a binary file.
+build\app\intermediates\incremental\release-mergeJavaRes\zip-cache\07NZeamOI8q0MxnF5IWjttsB44w=, it is a binary file.
+build\app\intermediates\incremental\release-mergeJavaRes\zip-cache\730QMLFN+lF9ZSk_T0mCDfHm0o8=, it is a binary file.
+build\app\intermediates\incremental\release-mergeJavaRes\zip-cache\9IUm3HIyVM8fstZm8M4KZC127wo=, it is a binary file.
+build\app\intermediates\incremental\release-mergeJavaRes\zip-cache\E4gsdMim8YPy2eacuzBekIIekGk=, it is a binary file.
+build\app\intermediates\incremental\release-mergeJavaRes\zip-cache\RegtIbQafPjUuZ08aRGWMmoNHg0=, it is a binary file.
+build\app\intermediates\incremental\release-mergeJavaRes\zip-cache\ZeLJrcUCmAb3cTmstqcvFvIw7ZY=, it is a binary file.
+build\app\intermediates\incremental\release-mergeJniLibs\merge-state, it is a binary file.
+build\app\intermediates\incremental\release-mergeJniLibs\zip-cache\07NZeamOI8q0MxnF5IWjttsB44w=, it is a binary file.
+build\app\intermediates\incremental\release-mergeJniLibs\zip-cache\730QMLFN+lF9ZSk_T0mCDfHm0o8=, it is a binary file.
+build\app\intermediates\incremental\release-mergeJniLibs\zip-cache\9IUm3HIyVM8fstZm8M4KZC127wo=, it is a binary file.
+build\app\intermediates\incremental\release-mergeJniLibs\zip-cache\E4gsdMim8YPy2eacuzBekIIekGk=, it is a binary file.
+build\app\intermediates\incremental\release-mergeJniLibs\zip-cache\RegtIbQafPjUuZ08aRGWMmoNHg0=, it is a binary file.
+build\app\intermediates\incremental\release-mergeJniLibs\zip-cache\ZeLJrcUCmAb3cTmstqcvFvIw7ZY=, it is a binary file.
+build\app\intermediates\instant_run_merged_manifests\debug\processDebugManifest\instant-run\output.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\instant_run_merged_manifests\release\processReleaseManifest\instant-run\output.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\javac\debug\compileDebugJavaWithJavac\classes\com\example\flutter_demo\BuildConfig.class, it is a binary file.
+build\app\intermediates\javac\debug\compileDebugJavaWithJavac\classes\com\example\flutter_demo\R$drawable.class, it is a binary file.
+build\app\intermediates\javac\debug\compileDebugJavaWithJavac\classes\com\example\flutter_demo\R$mipmap.class, it is a binary file.
+build\app\intermediates\javac\debug\compileDebugJavaWithJavac\classes\com\example\flutter_demo\R$style.class, it is a binary file.
+build\app\intermediates\javac\debug\compileDebugJavaWithJavac\classes\com\example\flutter_demo\R.class, it is a binary file.
+build\app\intermediates\javac\debug\compileDebugJavaWithJavac\classes\io\flutter\plugins\GeneratedPluginRegistrant.class, it is a binary file.
+build\app\intermediates\javac\debug\compileDebugJavaWithJavac\classes\io\flutter\plugins\sharedpreferences\R.class, it is a binary file.
+build\app\intermediates\javac\release\compileReleaseJavaWithJavac\classes\com\example\flutter_demo\BuildConfig.class, it is a binary file.
+build\app\intermediates\javac\release\compileReleaseJavaWithJavac\classes\com\example\flutter_demo\R$drawable.class, it is a binary file.
+build\app\intermediates\javac\release\compileReleaseJavaWithJavac\classes\com\example\flutter_demo\R$mipmap.class, it is a binary file.
+build\app\intermediates\javac\release\compileReleaseJavaWithJavac\classes\com\example\flutter_demo\R$style.class, it is a binary file.
+build\app\intermediates\javac\release\compileReleaseJavaWithJavac\classes\com\example\flutter_demo\R.class, it is a binary file.
+build\app\intermediates\javac\release\compileReleaseJavaWithJavac\classes\io\flutter\plugins\GeneratedPluginRegistrant.class, it is a binary file.
+build\app\intermediates\merged_assets\debug\mergeDebugAssets\out\flutter_assets\AssetManifest.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\merged_assets\debug\mergeDebugAssets\out\flutter_assets\FontManifest.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\merged_assets\debug\mergeDebugAssets\out\flutter_assets\fonts\MaterialIcons-Regular.ttf, it is a binary file.
+build\app\intermediates\merged_assets\debug\mergeDebugAssets\out\flutter_assets\isolate_snapshot_data, it is a binary file.
+build\app\intermediates\merged_assets\debug\mergeDebugAssets\out\flutter_assets\kernel_blob.bin, it is a binary file.
+build\app\intermediates\merged_assets\debug\mergeDebugAssets\out\flutter_assets\LICENSE, code is 4644, comment is 67, blank is 1024.
+build\app\intermediates\merged_assets\debug\mergeDebugAssets\out\flutter_assets\packages\cupertino_icons\assets\CupertinoIcons.ttf, it is a binary file.
+build\app\intermediates\merged_assets\debug\mergeDebugAssets\out\flutter_assets\vm_snapshot_data, it is a binary file.
+build\app\intermediates\merged_assets\release\mergeReleaseAssets\out\flutter_assets\AssetManifest.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\merged_assets\release\mergeReleaseAssets\out\flutter_assets\FontManifest.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\merged_assets\release\mergeReleaseAssets\out\flutter_assets\fonts\MaterialIcons-Regular.ttf, it is a binary file.
+build\app\intermediates\merged_assets\release\mergeReleaseAssets\out\flutter_assets\LICENSE, code is 4644, comment is 67, blank is 1024.
+build\app\intermediates\merged_assets\release\mergeReleaseAssets\out\flutter_assets\packages\cupertino_icons\assets\CupertinoIcons.ttf, it is a binary file.
+build\app\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml, code is 31, comment is 17, blank is 5.
+build\app\intermediates\merged_manifests\debug\processDebugManifest\merged\output.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml, code is 29, comment is 13, blank is 5.
+build\app\intermediates\merged_manifests\release\processReleaseManifest\merged\output.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\processed_res\debug\processDebugResources\out\output.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\processed_res\debug\processDebugResources\out\resources-debug.ap_, it is a binary file.
+build\app\intermediates\processed_res\release\processReleaseResources\out\output.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\processed_res\release\processReleaseResources\out\resources-release.ap_, it is a binary file.
+build\app\intermediates\res\merged\debug\drawable_launch_background.xml.flat, it is a binary file.
+build\app\intermediates\res\merged\debug\mipmap-hdpi_ic_launcher.png.flat, it is a binary file.
+build\app\intermediates\res\merged\debug\mipmap-mdpi_ic_launcher.png.flat, it is a binary file.
+build\app\intermediates\res\merged\debug\mipmap-xhdpi_ic_launcher.png.flat, it is a binary file.
+build\app\intermediates\res\merged\debug\mipmap-xxhdpi_ic_launcher.png.flat, it is a binary file.
+build\app\intermediates\res\merged\debug\mipmap-xxxhdpi_ic_launcher.png.flat, it is a binary file.
+build\app\intermediates\res\merged\debug\values_values.arsc.flat, it is a binary file.
+build\app\intermediates\res\merged\release\drawable_launch_background.xml.flat, it is a binary file.
+build\app\intermediates\res\merged\release\mipmap-hdpi_ic_launcher.png.flat, it is a binary file.
+build\app\intermediates\res\merged\release\mipmap-mdpi_ic_launcher.png.flat, it is a binary file.
+build\app\intermediates\res\merged\release\mipmap-xhdpi_ic_launcher.png.flat, it is a binary file.
+build\app\intermediates\res\merged\release\mipmap-xxhdpi_ic_launcher.png.flat, it is a binary file.
+build\app\intermediates\res\merged\release\mipmap-xxxhdpi_ic_launcher.png.flat, it is a binary file.
+build\app\intermediates\res\merged\release\values_values.arsc.flat, it is a binary file.
+build\app\intermediates\res\symbol-table-with-package\debug\package-aware-r.txt, code is 4, comment is 0, blank is 0.
+build\app\intermediates\split_list\debug\splitsDiscoveryTaskDebug\split-list.gson, code is 1, comment is 0, blank is 0.
+build\app\intermediates\split_list\release\splitsDiscoveryTaskRelease\split-list.gson, code is 1, comment is 0, blank is 0.
+build\app\intermediates\symbols\debug\R.txt, code is 3, comment is 0, blank is 0.
+build\app\intermediates\transforms\dexBuilder\debug\0.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\1.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\15.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\17.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\18.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\19.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\2.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\20.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\21.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\22.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\23.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\3.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\30.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\31.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\32.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\33.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\34.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\35.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\36\com\example\flutter_demo\BuildConfig.dex, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\36\com\example\flutter_demo\R$drawable.dex, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\36\com\example\flutter_demo\R$mipmap.dex, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\36\com\example\flutter_demo\R$style.dex, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\36\com\example\flutter_demo\R.dex, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\36\io\flutter\plugins\GeneratedPluginRegistrant.dex, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\36\io\flutter\plugins\sharedpreferences\R.dex, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\37\com\example\flutter_demo\MainActivity.dex, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\39.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\4.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\40.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\43.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\5.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\debug\__content__.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\transforms\dexBuilder\release\0.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\release\1.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\release\15.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\release\17.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\release\18.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\release\19.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\release\2.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\release\20.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\release\21.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\release\22.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\release\23.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\release\3.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\release\30.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\release\31.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\release\32.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\release\33.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\release\34.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\release\35.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\release\36\com\example\flutter_demo\BuildConfig.dex, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\release\36\com\example\flutter_demo\R$drawable.dex, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\release\36\com\example\flutter_demo\R$mipmap.dex, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\release\36\com\example\flutter_demo\R$style.dex, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\release\36\com\example\flutter_demo\R.dex, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\release\36\io\flutter\plugins\GeneratedPluginRegistrant.dex, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\release\37\com\example\flutter_demo\MainActivity.dex, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\release\4.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\release\5.jar, it is a binary file.
+build\app\intermediates\transforms\dexBuilder\release\__content__.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\transforms\dexMerger\debug\0\classes.dex, it is a binary file.
+build\app\intermediates\transforms\dexMerger\debug\__content__.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\transforms\dexMerger\release\0\classes.dex, it is a binary file.
+build\app\intermediates\transforms\dexMerger\release\__content__.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\transforms\externalLibsDexMerger\debug\0\classes.dex, it is a binary file.
+build\app\intermediates\transforms\externalLibsDexMerger\debug\__content__.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\transforms\externalLibsDexMerger\release\0\classes.dex, it is a binary file.
+build\app\intermediates\transforms\externalLibsDexMerger\release\__content__.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\transforms\mergeJavaRes\debug\0.jar, it is a binary file.
+build\app\intermediates\transforms\mergeJavaRes\debug\__content__.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\transforms\mergeJavaRes\release\0.jar, it is a binary file.
+build\app\intermediates\transforms\mergeJavaRes\release\__content__.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\transforms\mergeJniLibs\debug\0\lib\arm64-v8a\libflutter.so, it is a binary file.
+build\app\intermediates\transforms\mergeJniLibs\debug\0\lib\x86\libflutter.so, it is a binary file.
+build\app\intermediates\transforms\mergeJniLibs\debug\0\lib\x86_64\libflutter.so, it is a binary file.
+build\app\intermediates\transforms\mergeJniLibs\debug\__content__.json, code is 1, comment is 0, blank is 0.
+build\app\intermediates\transforms\mergeJniLibs\release\0\lib\arm64-v8a\libapp.so, it is a binary file.
+build\app\intermediates\transforms\mergeJniLibs\release\0\lib\arm64-v8a\libflutter.so, it is a binary file.
+build\app\intermediates\transforms\mergeJniLibs\release\0\lib\armeabi-v7a\libapp.so, it is a binary file.
+build\app\intermediates\transforms\mergeJniLibs\release\0\lib\armeabi-v7a\libflutter.so, it is a binary file.
+build\app\intermediates\transforms\mergeJniLibs\release\__content__.json, code is 1, comment is 0, blank is 0.
+build\app\kotlin\compileDebugKotlin\build-history.bin, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\inputs\source-to-output.tab, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\inputs\source-to-output.tab.keystream, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\inputs\source-to-output.tab.keystream.len, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\inputs\source-to-output.tab.len, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\inputs\source-to-output.tab.values.at, code is 1, comment is 0, blank is 0.
+build\app\kotlin\compileDebugKotlin\caches-jvm\inputs\source-to-output.tab_i, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\inputs\source-to-output.tab_i.len, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\class-fq-name-to-source.tab, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\class-fq-name-to-source.tab.keystream, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\class-fq-name-to-source.tab.keystream.len, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\class-fq-name-to-source.tab.len, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\class-fq-name-to-source.tab.values.at, code is 1, comment is 0, blank is 0.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\class-fq-name-to-source.tab_i, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\class-fq-name-to-source.tab_i.len, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\internal-name-to-source.tab, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\internal-name-to-source.tab.keystream, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\internal-name-to-source.tab.keystream.len, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\internal-name-to-source.tab.len, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\internal-name-to-source.tab.values.at, code is 1, comment is 0, blank is 0.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\internal-name-to-source.tab_i, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\internal-name-to-source.tab_i.len, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\java-sources-proto-map.tab, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\java-sources-proto-map.tab.keystream, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\java-sources-proto-map.tab.keystream.len, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\java-sources-proto-map.tab.len, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\java-sources-proto-map.tab.values.at, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\java-sources-proto-map.tab_i, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\java-sources-proto-map.tab_i.len, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\proto.tab, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\proto.tab.keystream, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\proto.tab.keystream.len, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\proto.tab.len, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\proto.tab.values.at, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\proto.tab_i, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\proto.tab_i.len, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\source-to-classes.tab, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\source-to-classes.tab.keystream, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\source-to-classes.tab.keystream.len, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\source-to-classes.tab.len, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\source-to-classes.tab.values.at, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\source-to-classes.tab_i, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\source-to-classes.tab_i.len, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\subtypes.tab, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\subtypes.tab.keystream, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\subtypes.tab.keystream.len, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\subtypes.tab.len, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\subtypes.tab.values.at, code is 1, comment is 0, blank is 0.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\subtypes.tab_i, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\subtypes.tab_i.len, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\supertypes.tab, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\supertypes.tab.keystream, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\supertypes.tab.keystream.len, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\supertypes.tab.len, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\supertypes.tab.values.at, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\supertypes.tab_i, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\jvm\kotlin\supertypes.tab_i.len, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\lookups\counters.tab, code is 2, comment is 0, blank is 0.
+build\app\kotlin\compileDebugKotlin\caches-jvm\lookups\file-to-id.tab, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\lookups\file-to-id.tab.keystream, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\lookups\file-to-id.tab.keystream.len, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\lookups\file-to-id.tab.len, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\lookups\file-to-id.tab.values.at, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\lookups\file-to-id.tab_i, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\lookups\file-to-id.tab_i.len, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\lookups\id-to-file.tab, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\lookups\id-to-file.tab.keystream, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\lookups\id-to-file.tab.keystream.len, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\lookups\id-to-file.tab.len, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\lookups\id-to-file.tab.values.at, code is 1, comment is 0, blank is 0.
+build\app\kotlin\compileDebugKotlin\caches-jvm\lookups\lookups.tab, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\lookups\lookups.tab.keystream, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\lookups\lookups.tab.keystream.len, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\lookups\lookups.tab.len, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\lookups\lookups.tab.values.at, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\lookups\lookups.tab_i, it is a binary file.
+build\app\kotlin\compileDebugKotlin\caches-jvm\lookups\lookups.tab_i.len, it is a binary file.
+build\app\kotlin\compileDebugKotlin\data-container-format-version.txt, code is 1, comment is 0, blank is 0.
+build\app\kotlin\compileDebugKotlin\format-version.txt, code is 1, comment is 0, blank is 0.
+build\app\kotlin\compileDebugKotlin\gradle-format-version.txt, code is 1, comment is 0, blank is 0.
+build\app\kotlin\compileDebugKotlin\last-build.bin, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\build-history.bin, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\inputs\source-to-output.tab, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\inputs\source-to-output.tab.keystream, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\inputs\source-to-output.tab.keystream.len, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\inputs\source-to-output.tab.len, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\inputs\source-to-output.tab.values.at, code is 1, comment is 0, blank is 0.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\inputs\source-to-output.tab_i, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\inputs\source-to-output.tab_i.len, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\class-fq-name-to-source.tab, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\class-fq-name-to-source.tab.keystream, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\class-fq-name-to-source.tab.keystream.len, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\class-fq-name-to-source.tab.len, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\class-fq-name-to-source.tab.values.at, code is 1, comment is 0, blank is 0.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\class-fq-name-to-source.tab_i, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\class-fq-name-to-source.tab_i.len, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\internal-name-to-source.tab, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\internal-name-to-source.tab.keystream, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\internal-name-to-source.tab.keystream.len, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\internal-name-to-source.tab.len, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\internal-name-to-source.tab.values.at, code is 1, comment is 0, blank is 0.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\internal-name-to-source.tab_i, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\internal-name-to-source.tab_i.len, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\java-sources-proto-map.tab, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\java-sources-proto-map.tab.keystream, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\java-sources-proto-map.tab.keystream.len, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\java-sources-proto-map.tab.len, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\java-sources-proto-map.tab.values.at, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\java-sources-proto-map.tab_i, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\java-sources-proto-map.tab_i.len, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\proto.tab, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\proto.tab.keystream, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\proto.tab.keystream.len, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\proto.tab.len, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\proto.tab.values.at, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\proto.tab_i, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\proto.tab_i.len, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\source-to-classes.tab, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\source-to-classes.tab.keystream, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\source-to-classes.tab.keystream.len, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\source-to-classes.tab.len, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\source-to-classes.tab.values.at, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\source-to-classes.tab_i, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\source-to-classes.tab_i.len, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\subtypes.tab, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\subtypes.tab.keystream, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\subtypes.tab.keystream.len, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\subtypes.tab.len, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\subtypes.tab.values.at, code is 1, comment is 0, blank is 0.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\subtypes.tab_i, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\subtypes.tab_i.len, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\supertypes.tab, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\supertypes.tab.keystream, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\supertypes.tab.keystream.len, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\supertypes.tab.len, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\supertypes.tab.values.at, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\supertypes.tab_i, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\jvm\kotlin\supertypes.tab_i.len, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\lookups\counters.tab, code is 2, comment is 0, blank is 0.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\lookups\file-to-id.tab, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\lookups\file-to-id.tab.keystream, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\lookups\file-to-id.tab.keystream.len, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\lookups\file-to-id.tab.len, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\lookups\file-to-id.tab.values.at, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\lookups\file-to-id.tab_i, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\lookups\file-to-id.tab_i.len, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\lookups\id-to-file.tab, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\lookups\id-to-file.tab.keystream, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\lookups\id-to-file.tab.keystream.len, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\lookups\id-to-file.tab.len, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\lookups\id-to-file.tab.values.at, code is 1, comment is 0, blank is 0.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\lookups\lookups.tab, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\lookups\lookups.tab.keystream, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\lookups\lookups.tab.keystream.len, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\lookups\lookups.tab.len, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\lookups\lookups.tab.values.at, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\lookups\lookups.tab_i, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\caches-jvm\lookups\lookups.tab_i.len, it is a binary file.
+build\app\kotlin\compileReleaseKotlin\data-container-format-version.txt, code is 1, comment is 0, blank is 0.
+build\app\kotlin\compileReleaseKotlin\format-version.txt, code is 1, comment is 0, blank is 0.
+build\app\kotlin\compileReleaseKotlin\gradle-format-version.txt, code is 1, comment is 0, blank is 0.
+build\app\kotlin\compileReleaseKotlin\last-build.bin, it is a binary file.
+build\app\outputs\apk\app.apk, it is a binary file.
+build\app\outputs\apk\app.apk.sha1, code is 1, comment is 0, blank is 0.
+build\app\outputs\apk\debug\app-debug.apk, it is a binary file.
+build\app\outputs\apk\debug\output.json, code is 1, comment is 0, blank is 0.
+build\app\outputs\apk\release\app-release.apk, it is a binary file.
+build\app\outputs\apk\release\output.json, code is 1, comment is 0, blank is 0.
+build\app\outputs\logs\manifest-merger-debug-report.txt, code is 81, comment is 0, blank is 0.
+build\app\outputs\logs\manifest-merger-release-report.txt, code is 75, comment is 0, blank is 0.
+build\app\reports\lint-results-release-fatal.html, code is 185, comment is 13, blank is 3.
+build\app\reports\lint-results-release-fatal.xml, code is 3, comment is 0, blank is 1.
+build\app\tmp\kotlin-classes\debug\com\example\flutter_demo\MainActivity.class, it is a binary file.
+build\app\tmp\kotlin-classes\debug\META-INF\app_debug.kotlin_module, it is a binary file.
+build\app\tmp\kotlin-classes\release\com\example\flutter_demo\MainActivity.class, it is a binary file.
+build\app\tmp\kotlin-classes\release\META-INF\app_release.kotlin_module, it is a binary file.
+build\app\tmp\packLibsflutterBuildDebug\MANIFEST.MF, code is 1, comment is 0, blank is 1.
+build\app\tmp\packLibsflutterBuildRelease\MANIFEST.MF, code is 1, comment is 0, blank is 1.
+build\frontend_server.d, code is 1, comment is 0, blank is 0.
+build\shared_preferences\generated\not_namespaced_r_class_sources\debug\generateDebugRFile\out\io\flutter\plugins\sharedpreferences\R.java, code is 4, comment is 6, blank is 2.
+build\shared_preferences\generated\source\buildConfig\debug\io\flutter\plugins\sharedpreferences\BuildConfig.java, code is 9, comment is 3, blank is 1.
+build\shared_preferences\intermediates\aapt_friendly_merged_manifests\debug\processDebugManifest\aapt\AndroidManifest.xml, code is 5, comment is 0, blank is 2.
+build\shared_preferences\intermediates\aapt_friendly_merged_manifests\debug\processDebugManifest\aapt\output.json, code is 1, comment is 0, blank is 0.
+build\shared_preferences\intermediates\annotation_processor_list\debug\javaPreCompileDebug\annotationProcessors.json, code is 1, comment is 0, blank is 0.
+build\shared_preferences\intermediates\annotations_typedef_file\debug\extractDebugAnnotations\typedefs.txt, code is 0, comment is 0, blank is 0.
+build\shared_preferences\intermediates\incremental\debug-mergeJavaRes\merge-state, it is a binary file.
+build\shared_preferences\intermediates\incremental\debug-mergeJniLibs\merge-state, it is a binary file.
+build\shared_preferences\intermediates\incremental\mergeDebugJniLibFolders\merger.xml, code is 2, comment is 0, blank is 0.
+build\shared_preferences\intermediates\incremental\mergeDebugShaders\merger.xml, code is 2, comment is 0, blank is 0.
+build\shared_preferences\intermediates\incremental\packageDebugAssets\merger.xml, code is 2, comment is 0, blank is 0.
+build\shared_preferences\intermediates\incremental\packageDebugResources\compile-file-map.properties, code is 1, comment is 0, blank is 0.
+build\shared_preferences\intermediates\incremental\packageDebugResources\merger.xml, code is 2, comment is 0, blank is 0.
+build\shared_preferences\intermediates\intermediate-jars\debug\classes.jar, it is a binary file.
+build\shared_preferences\intermediates\intermediate-jars\debug\res.jar, it is a binary file.
+build\shared_preferences\intermediates\javac\debug\compileDebugJavaWithJavac\classes\io\flutter\plugins\sharedpreferences\BuildConfig.class, it is a binary file.
+build\shared_preferences\intermediates\javac\debug\compileDebugJavaWithJavac\classes\io\flutter\plugins\sharedpreferences\MethodCallHandlerImpl$1.class, it is a binary file.
+build\shared_preferences\intermediates\javac\debug\compileDebugJavaWithJavac\classes\io\flutter\plugins\sharedpreferences\MethodCallHandlerImpl.class, it is a binary file.
+build\shared_preferences\intermediates\javac\debug\compileDebugJavaWithJavac\classes\io\flutter\plugins\sharedpreferences\R.class, it is a binary file.
+build\shared_preferences\intermediates\javac\debug\compileDebugJavaWithJavac\classes\io\flutter\plugins\sharedpreferences\SharedPreferencesPlugin.class, it is a binary file.
+build\shared_preferences\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml, code is 5, comment is 0, blank is 2.
+build\shared_preferences\intermediates\merged_manifests\debug\processDebugManifest\merged\output.json, code is 1, comment is 0, blank is 0.
+build\shared_preferences\intermediates\packaged-classes\debug\classes.jar, it is a binary file.
+build\shared_preferences\intermediates\res\symbol-table-with-package\debug\package-aware-r.txt, code is 1, comment is 0, blank is 0.
+build\shared_preferences\intermediates\symbols\debug\R.txt, code is 0, comment is 0, blank is 0.
+build\shared_preferences\intermediates\transforms\mergeJavaRes\debug\0.jar, it is a binary file.
+build\shared_preferences\intermediates\transforms\mergeJavaRes\debug\__content__.json, code is 1, comment is 0, blank is 0.
+build\shared_preferences\intermediates\transforms\mergeJniLibs\debug\__content__.json, code is 1, comment is 0, blank is 0.
+build\shared_preferences\outputs\aar\shared_preferences-debug.aar, it is a binary file.
+build\shared_preferences\outputs\logs\manifest-merger-debug-report.txt, code is 19, comment is 0, blank is 0.
+flutter_demo.iml, code is 18, comment is 0, blank is 0.
+ios\Flutter\AppFrameworkInfo.plist, code is 26, comment is 0, blank is 0.
+ios\Flutter\Debug.xcconfig, code is 1, comment is 0, blank is 0.
+ios\Flutter\Generated.xcconfig, code is 8, comment is 1, blank is 0.
+ios\Flutter\Release.xcconfig, code is 1, comment is 0, blank is 0.
+ios\Runner.xcodeproj\project.pbxproj, code is 480, comment is 27, blank is 14.
+ios\Runner.xcodeproj\project.xcworkspace\contents.xcworkspacedata, code is 7, comment is 0, blank is 0.
+ios\Runner.xcodeproj\xcshareddata\xcschemes\Runner.xcscheme, code is 91, comment is 0, blank is 0.
+ios\Runner.xcworkspace\contents.xcworkspacedata, code is 7, comment is 0, blank is 0.
+ios\Runner\AppDelegate.swift, code is 12, comment is 0, blank is 1.
+ios\Runner\Assets.xcassets\AppIcon.appiconset\Contents.json, code is 122, comment is 0, blank is 0.
+ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-1024x1024@1x.png, it is a binary file.
+ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-20x20@1x.png, it is a binary file.
+ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-20x20@2x.png, it is a binary file.
+ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-20x20@3x.png, it is a binary file.
+ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-29x29@1x.png, it is a binary file.
+ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-29x29@2x.png, it is a binary file.
+ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-29x29@3x.png, it is a binary file.
+ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-40x40@1x.png, it is a binary file.
+ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-40x40@2x.png, it is a binary file.
+ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-40x40@3x.png, it is a binary file.
+ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-60x60@2x.png, it is a binary file.
+ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-60x60@3x.png, it is a binary file.
+ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-76x76@1x.png, it is a binary file.
+ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-76x76@2x.png, it is a binary file.
+ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-83.5x83.5@2x.png, it is a binary file.
+ios\Runner\Assets.xcassets\LaunchImage.imageset\Contents.json, code is 23, comment is 0, blank is 0.
+ios\Runner\Assets.xcassets\LaunchImage.imageset\LaunchImage.png, it is a binary file.
+ios\Runner\Assets.xcassets\LaunchImage.imageset\LaunchImage@2x.png, it is a binary file.
+ios\Runner\Assets.xcassets\LaunchImage.imageset\LaunchImage@3x.png, it is a binary file.
+ios\Runner\Assets.xcassets\LaunchImage.imageset\README.md, code is 3, comment is 0, blank is 2.
+ios\Runner\Base.lproj\LaunchScreen.storyboard, code is 37, comment is 0, blank is 0.
+ios\Runner\Base.lproj\Main.storyboard, code is 26, comment is 0, blank is 0.
+ios\Runner\GeneratedPluginRegistrant.h, code is 7, comment is 3, blank is 4.
+ios\Runner\GeneratedPluginRegistrant.m, code is 10, comment is 0, blank is 4.
+ios\Runner\Info.plist, code is 45, comment is 0, blank is 0.
+ios\Runner\Runner-Bridging-Header.h, code is 1, comment is 0, blank is 0.
+lib\config\Config.dart, code is 3, comment is 0, blank is 0.
+lib\main.dart, code is 24, comment is 2, blank is 3.
+lib\model\CateModel.dart, code is 46, comment is 0, blank is 7.
+lib\model\FocusModel.dart, code is 43, comment is 0, blank is 7.
+lib\model\ProductModel.dart, code is 56, comment is 1, blank is 7.
+lib\pages\ProdctList.dart, code is 300, comment is 58, blank is 37.
+lib\pages\ProductContent.dart, code is 144, comment is 0, blank is 4.
+lib\pages\ProductContent\ProductContentFirst.dart, code is 23, comment is 0, blank is 3.
+lib\pages\ProductContent\ProductContentSecond.dart, code is 14, comment is 0, blank is 3.
+lib\pages\ProductContent\ProductContentThird.dart, code is 14, comment is 0, blank is 3.
+lib\pages\Search.dart, code is 223, comment is 6, blank is 10.
+lib\pages\tabs\Cart.dart, code is 11, comment is 0, blank is 2.
+lib\pages\tabs\Category.dart, code is 151, comment is 9, blank is 12.
+lib\pages\tabs\Home.dart, code is 229, comment is 15, blank is 15.
+lib\pages\tabs\Tabs.dart, code is 84, comment is 9, blank is 5.
+lib\pages\tabs\User.dart, code is 11, comment is 0, blank is 2.
+lib\routers\router.dart, code is 25, comment is 3, blank is 2.
+lib\services\ScreenAdapter.dart, code is 21, comment is 0, blank is 1.
+lib\services\SearchServices.dart, code is 37, comment is 1, blank is 5.
+lib\services\Storage.dart, code is 19, comment is 0, blank is 4.
+lib\widget\LoadingWidget.dart, code is 24, comment is 0, blank is 1.
+pubspec.lock, code is 203, comment is 1, blank is 0.
+pubspec.yaml, code is 63, comment is 6, blank is 13.
+README.md, code is 10, comment is 3, blank is 6.
+test\widget_test.dart, code is 14, comment is 10, blank is 6.
+===============================================================================
